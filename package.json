@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/machinomy/types-truffle-artifactor/issues"
   },
-  "homepage": "https://github.com/machinomy/types-truffle-artifactor#readme"
+  "homepage": "https://github.com/machinomy/types-truffle-artifactor#readme",
+  "dependencies": {
+    "truffle-artifactor": "^3.0.2"
+  }
 }
